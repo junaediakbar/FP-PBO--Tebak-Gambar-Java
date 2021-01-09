@@ -1,5 +1,7 @@
 # FP-PBO--Tebak-Gambar-Java
 /*
+
+
 Komponen
 1. src 
   berisi source code
@@ -7,6 +9,9 @@ Komponen
   berisi kumpulan gambar yang akan ditampilkan
 3. library 
 untuk menyimpan library yang akan digunakan
+*/
+/*
+
 Terdapat 3 jenis kelas:
 1. Class Start : start.java
    berfungsi untuk menampilkan halaman awal, yang nantinya user diminta untuk menginputkan nama pemain
